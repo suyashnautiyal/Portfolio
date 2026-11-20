@@ -71,8 +71,7 @@ export const projects: Project[] = [
     next: 'Add tests for the extraction steps and show a confidence score next to each extracted field.',
     details: [
       'Log, edit and review complaints in a two-panel layout where the AI assistant fills the form.',
-      'Pulls 10+ fields from free text and from PDF, TXT or EML uploads.',
-      ,
+      'Pulls 10+ fields from free text and from PDF, TXT or EML uploads.'
     ],
     stack: ['React', 'Redux Toolkit', 'Vite', 'FastAPI', 'LangGraph', 'Groq'],
     code: 'https://github.com/suyashnautiyal/Complaint-system',
